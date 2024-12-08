@@ -24,6 +24,9 @@ Projects:
 - **[The Last Stand](https://github.com/PavleProd/The-Last-Stand)**                         
   2D, Tower Defence, Pixel Art game in which you defend the last human island against goblin invaders
 
+- **[Mummy Maze](https://github.com/PavleProd/Diplomski)**
+  2D, Puzzle, Turn-Based recreation of original Mummy Maze game, implemented in Godot Engine 
+
 ## Web Development
 
 - **[CareConnect](https://github.com/PavleProd/CareConnect)**                                                       

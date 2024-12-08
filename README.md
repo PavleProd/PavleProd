@@ -1,18 +1,24 @@
 ## Pavle Prodanovic
 
-I'm a graduate with a bachelor's degree in computer science and 1.5 years of experience in software and game development.
+Software engineer with a bachelor's degree at the Faculty of Electrical Engineering, University of Belgrade.
+I'm passionate about Software Development and Game Development in which I have 1.5 years of professional experience at Wargaming
 
 Projects:
 
 ## Systems Programming
 
-- **[OSProjekat](https://github.com/PavleProd/OSProjekat)**  
+- **[Operating System](https://github.com/PavleProd/OSProjekat)**  
   A multithreaded kernel for the RISC-V architecture, featuring time-sharing, mutual exclusion, and various system calls.
-- **[MikrojavaCompiler](https://github.com/PavleProd/MikrojavaCompiler)**  
+- **[MicroJava Compiler](https://github.com/PavleProd/MikrojavaCompiler)**  
   A compiler for the Mikrojava programming language that translates code into bytecode executable on the MJVM.
 
 ## Games
 
+- **[2D World of Tanks Game](https://github.com/PavleProd/Tank-Predators)**
+A 2D game inspired by World of Tanks in which the goal is to control 5 tanks of different types against other teams online
+
+- **[The Last Stand](https://github.com/PavleProd/The-Last-Stand)**
+IN PROGRESS: 2D, Tower Defence, Pixel Art game in which you defend the last human island against goblin invaders
 
 ## Web Development
 

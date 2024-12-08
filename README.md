@@ -54,7 +54,7 @@ Projects:
   A simple Telegram bot developed in Python that downloads images or videos from given URLs, utilizing Docker for deployment.
 
 - **[PSIML8](https://github.com/PavleProd/PSIML8)**                                                            
-  Qualification project for the PSIML8 summer course (2022), focusing on machine learning applications.
+  Qualification project for the PSIML8 summer course (2022), where I was working with image recognition in Python.
 
 - **[Cryptographic Algorithms](https://github.com/PavleProd/Kriptografski-Algoritmi)**                                       
   Implementations of cryptographic algorithms and exercises from the Data Protection course.

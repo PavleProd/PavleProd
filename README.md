@@ -18,7 +18,7 @@ Projects:
 A 2D game inspired by World of Tanks in which the goal is to control 5 tanks of different types against other teams online
 
 - **[The Last Stand](https://github.com/PavleProd/The-Last-Stand)**
-IN PROGRESS: 2D, Tower Defence, Pixel Art game in which you defend the last human island against goblin invaders
+2D, Tower Defence, Pixel Art game in which you defend the last human island against goblin invaders
 
 ## Web Development
 

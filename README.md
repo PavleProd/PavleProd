@@ -14,7 +14,7 @@ Projects:
   An assembler, compiler, and emulator for imaginary computer architecture, similar to x86
   
 - **[MicroJava Compiler](https://github.com/PavleProd/MikrojavaCompiler)**                        
-  A compiler for the Mikrojava programming language that translates code into bytecode executable on the MJVM.
+  A compiler for the MicroJava programming language that translates code into bytecode executable on the MJVM.
 
 ## Games
 

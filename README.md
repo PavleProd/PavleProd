@@ -7,7 +7,7 @@ Projects:
 
 ## Systems Programming
 
-- **[Operating System](https://github.com/PavleProd/OSProjekat)**  
+- **[Operating System Kernel](https://github.com/PavleProd/OSProjekat)**  
   A multithreaded kernel for the RISC-V architecture, featuring time-sharing, mutual exclusion, and various system calls.
 
 - **[Assesmbly Compiler and Emulator](https://github.com/PavleProd/Sistemski-Softver)**          
@@ -25,7 +25,7 @@ Projects:
   2D, Tower Defence, Pixel Art game in which you defend the last human island against goblin invaders
 
 - **[Mummy Maze](https://github.com/PavleProd/Diplomski)**                                           
-  2D, Puzzle, Turn-Based recreation of original Mummy Maze game, implemented in Godot Engine 
+  2D, Puzzle, Turn-Based recreation of the original Mummy Maze game, implemented in Godot Engine 
 
 ## Web Development
 

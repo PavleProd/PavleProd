@@ -9,6 +9,10 @@ Projects:
 
 - **[Operating System](https://github.com/PavleProd/OSProjekat)**  
   A multithreaded kernel for the RISC-V architecture, featuring time-sharing, mutual exclusion, and various system calls.
+
+- **[Assesmbly Compiler and Emulator](https://github.com/PavleProd/Sistemski-Softver)**
+An assembler, compiler, and emulator for imaginary computer architecture, similar to x86
+  
 - **[MicroJava Compiler](https://github.com/PavleProd/MikrojavaCompiler)**  
   A compiler for the Mikrojava programming language that translates code into bytecode executable on the MJVM.
 
@@ -27,16 +31,19 @@ A 2D game inspired by World of Tanks in which the goal is to control 5 tanks of 
 
 ## Algorithms and Data Structures
 
-- **[ASP-Projekat](https://github.com/PavleProd/ASP-Projekat)**  
+- **[Question-Answer Platform](https://github.com/PavleProd/ASP-Projekat)**  
   A C++ simulation of a question-and-answer platform, employing tree data structures to manage hierarchical relationships.
 
-- **[Prims-Algorithm](https://github.com/PavleProd/Prims-Algorithm)**  
+- **[Prims Algorithm](https://github.com/PavleProd/Prims-Algorithm)**  
   An implementation of Prim's algorithm in C++ with O(E log V) time complexity for finding the minimum spanning tree in graphs.
 
 ## Embedded Systems
 
-- **[Elsys-Hackathon](https://github.com/PavleProd/Elsys-Hackathon)**  
+- **[Piano Tiles on FPGA](https://github.com/PavleProd/Elsys-Hackathon)**  
   A simplified version of the Piano Tiles game was implemented on a Cyclone V FPGA and created during the Elsys Eastern Europe Hackathon.
+
+- **[Pico Computer system for FPGA](https://github.com/PavleProd/VLSI-Project)**
+A simple system using Verilog and SystemVerilog, designed for simulation, synthesis, and testing of digital components.
 
 ## Other
 

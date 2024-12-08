@@ -11,7 +11,7 @@ Projects:
   A multithreaded kernel for the RISC-V architecture, featuring time-sharing, mutual exclusion, and various system calls.
 
 - **[Assesmbly Compiler and Emulator](https://github.com/PavleProd/Sistemski-Softver)**
-An assembler, compiler, and emulator for imaginary computer architecture, similar to x86
+  An assembler, compiler, and emulator for imaginary computer architecture, similar to x86
   
 - **[MicroJava Compiler](https://github.com/PavleProd/MikrojavaCompiler)**  
   A compiler for the Mikrojava programming language that translates code into bytecode executable on the MJVM.
@@ -19,10 +19,10 @@ An assembler, compiler, and emulator for imaginary computer architecture, simila
 ## Games
 
 - **[2D World of Tanks Game](https://github.com/PavleProd/Tank-Predators)**
-A 2D game inspired by World of Tanks in which the goal is to control 5 tanks of different types against other teams online
+  A 2D game inspired by World of Tanks in which the goal is to control 5 tanks of different types against other teams online
 
 - **[The Last Stand](https://github.com/PavleProd/The-Last-Stand)**
-2D, Tower Defence, Pixel Art game in which you defend the last human island against goblin invaders
+  2D, Tower Defence, Pixel Art game in which you defend the last human island against goblin invaders
 
 ## Web Development
 
@@ -43,7 +43,7 @@ A 2D game inspired by World of Tanks in which the goal is to control 5 tanks of 
   A simplified version of the Piano Tiles game was implemented on a Cyclone V FPGA and created during the Elsys Eastern Europe Hackathon.
 
 - **[Pico Computer system for FPGA](https://github.com/PavleProd/VLSI-Project)**
-A simple system using Verilog and SystemVerilog, designed for simulation, synthesis, and testing of digital components.
+  A simple system using Verilog and SystemVerilog, designed for simulation, synthesis, and testing of digital components.
 
 ## Other
 

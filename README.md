@@ -56,7 +56,7 @@ Projects:
 - **[PSIML8](https://github.com/PavleProd/PSIML8)**                                                            
   Qualification project for the PSIML8 summer course (2022), focusing on machine learning applications.
 
-- **[Kriptografski-Algoritmi](https://github.com/PavleProd/Kriptografski-Algoritmi)**                                       
+- **[Cryptographic Algorithms](https://github.com/PavleProd/Kriptografski-Algoritmi)**                                       
   Implementations of cryptographic algorithms and exercises from the Data Protection course.
 
 

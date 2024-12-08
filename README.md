@@ -13,7 +13,7 @@ Projects:
 - **[Assesmbly Compiler and Emulator](https://github.com/PavleProd/Sistemski-Softver)**          
   An assembler, compiler, and emulator for imaginary computer architecture, similar to x86
   
-- **[MicroJava Compiler](https://github.com/PavleProd/Programski-Prevodioci-1-Projekat)**                        
+- **[MicroJava Compiler](https://github.com/PavleProd/Programski-Prevodioci-1)**                        
   A compiler for the MicroJava programming language that translates code into bytecode executable on the MJVM.
 
 ## Games

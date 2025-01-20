@@ -18,7 +18,7 @@ Projects:
 
 ## Desktop Development
 
-- **[Random Chat App](https://github.com/PavleProd/RandomChat)**
+- **[Random Chat App](https://github.com/PavleProd/RandomChat)**<br>
   Desktop Application where users can message other random users online
 ## Games
 

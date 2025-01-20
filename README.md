@@ -18,7 +18,7 @@ Projects:
 
 ## Desktop Development
 
-- **[Random Chat](https://github.com/PavleProd/RandomChat)**<br>
+- **[Random Chat](https://github.com/PavleProd/RandomChat)**
   A desktop app for chatting with random people, offering a simple and fun way to connect anonymously
 ## Games
 

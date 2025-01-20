@@ -16,6 +16,10 @@ Projects:
 - **[MicroJava Compiler](https://github.com/PavleProd/Programski-Prevodioci-1)**                        
   A compiler for the MicroJava programming language that translates code into bytecode executable on the MJVM.
 
+## Desktop Development
+
+- **[Random Chat App](https://github.com/PavleProd/RandomChat)**
+  Desktop Application where users can message other random users online
 ## Games
 
 - **[2D World of Tanks Game](https://github.com/PavleProd/Tank-Predators)**                                

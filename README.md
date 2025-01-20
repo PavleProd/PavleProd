@@ -18,8 +18,9 @@ Projects:
 
 ## Desktop Development
 
-- **[Random Chat](https://github.com/PavleProd/RandomChat)**
+- **[Random Chat](https://github.com/PavleProd/RandomChat)**<br>
   A desktop app for chatting with random people, offering a simple and fun way to connect anonymously
+
 ## Games
 
 - **[2D World of Tanks Game](https://github.com/PavleProd/Tank-Predators)**                                

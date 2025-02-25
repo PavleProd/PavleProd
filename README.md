@@ -16,7 +16,7 @@ I'm passionate about Software Development and Game Development. I have almost 2 
 
 ## Web Development
 
-- **[Clothing Store API](https://github.com/PavleProd/Clothing-Store-API)**
+- **[Clothing Store API](https://github.com/PavleProd/Clothing-Store-API)**<br>
   Simple RESTful API for online clothing store, including web-server implementation in **GO** and **PostgreSQL** database
 
 - **[CareConnect](https://github.com/PavleProd/CareConnect)**                                                       

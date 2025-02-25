@@ -16,6 +16,14 @@ Projects:
 - **[MicroJava Compiler](https://github.com/PavleProd/Programski-Prevodioci-1)**                        
   A compiler for the MicroJava programming language that translates code into bytecode executable on the MJVM.
 
+## Web Development
+
+- **[Clothing Store API](https://github.com/PavleProd/Clothing-Store-API)**
+  Simple RESTful API for online clothing store, including web-server implementation in **GO** and **PostgreSQL** database
+
+- **[CareConnect](https://github.com/PavleProd/CareConnect)**                                                       
+  A web application developed using the MEAN stack (MongoDB, Express.js, Angular, Node.js) that serves as a virtual clinic for healthcare management.
+
 ## Desktop Development
 
 - **[Random Chat](https://github.com/PavleProd/RandomChat)**<br>
@@ -32,18 +40,10 @@ Projects:
 - **[Mummy Maze](https://github.com/PavleProd/Diplomski)**                                           
   2D, Puzzle, Turn-Based recreation of the original Mummy Maze game, implemented in Godot Engine 
 
-## Web Development
-
-- **[CareConnect](https://github.com/PavleProd/CareConnect)**                                                       
-  A web application developed using the MEAN stack (MongoDB, Express.js, Angular, Node.js) that serves as a virtual clinic for healthcare management.
-
 ## Algorithms and Data Structures
 
 - **[Question-Answer Platform](https://github.com/PavleProd/ASP-Projekat)**                                           
   A C++ simulation of a question-and-answer platform, employing tree data structures to manage hierarchical relationships.
-
-- **[Prims Algorithm](https://github.com/PavleProd/Prims-Algorithm)**                                            
-  An implementation of Prim's algorithm in C++ with O(E log V) time complexity for finding the minimum spanning tree in graphs.
 
 ## Embedded Systems
 

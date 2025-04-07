@@ -38,11 +38,6 @@ I'm passionate about Software Development and Game Development. I have almost 2 
 - **[Mummy Maze](https://github.com/PavleProd/Diplomski)**                                           
   2D, Puzzle, Turn-Based recreation of the original Mummy Maze game, implemented in Godot Engine 
 
-## Algorithms and Data Structures
-
-- **[Question-Answer Platform](https://github.com/PavleProd/ASP-Projekat)**                                           
-  A C++ simulation of a question-and-answer platform, employing tree data structures to manage hierarchical relationships.
-
 ## Embedded Systems
 
 - **[Piano Tiles on FPGA](https://github.com/PavleProd/Elsys-Hackathon)**                                                           

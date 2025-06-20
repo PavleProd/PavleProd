@@ -1,7 +1,7 @@
 # Pavle Prodanovic
 
-- Software engineer with a bachelor's degree at the Faculty of Electrical Engineering, University of Belgrade.
-- Currently Medior Backend Developer at Nano Interactive
+- Medior Backend Developer at Nano Interactive
+- Bachelor's degree at the Faculty of Electrical Engineering, University of Belgrade.
 
 ## Systems Programming
 

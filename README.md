@@ -1,7 +1,7 @@
 # Pavle Prodanovic
 
-Software engineer with a bachelor's degree at the Faculty of Electrical Engineering, University of Belgrade.                           
-I'm passionate about Software Development and Game Development. I have almost 2 years of professional experience in those fields at Wargaming
+- Software engineer with a bachelor's degree at the Faculty of Electrical Engineering, University of Belgrade.
+- Currently Medior Backend Developer at Nano Interactive
 
 ## Systems Programming
 

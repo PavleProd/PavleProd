@@ -1,6 +1,6 @@
 # Pavle Prodanovic
 
-- Co-founder at [Retensity](https://retensity.ai): we cut what your product pays for AI, fixed in your code and measured on your traffic
+- Co-founder at [Retensity](https://retensity.ai)
 - Medior Backend Developer at Nano Interactive
 - Bachelor's degree at the Faculty of Electrical Engineering, University of Belgrade.
 

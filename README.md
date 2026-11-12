@@ -7,7 +7,7 @@
 ## Current Projects
 
 - **[Odgovornost](https://odgovornost.rs)**<br>
-  A register of affairs of the authorities in Serbia: what happened, who took part, who was harmed and how far the investigation has got. Every finding has a public source. Built with **Go** and **React**.
+  A public registry of affairs linked to Srpska Napredna Stranka (SNS): what happened, who took part, who was harmed and how far the investigation has got. Every finding has a public source. Built with **Go** and **React**.
 
 ## Systems Programming
 
